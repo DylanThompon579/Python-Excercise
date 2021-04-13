@@ -1,6 +1,6 @@
 C151 Multi-User Operating Systems
 Spring Semester 2021
-
+```python
 #!/usr/bin/python
 def words():
     word1 = "Stapler before dawn"
@@ -10,3 +10,4 @@ def words():
     print poem
 if __name__ == '__main__':
     words()
+```
